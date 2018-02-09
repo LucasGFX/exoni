@@ -1,0 +1,9 @@
+
+{
+  "name": "Exoni",
+  "description": "Exoni",
+  "version": "1.0.0",
+  "main": "exoni.py",
+  "scripts": {
+    "start": "node exoni.py"
+  }
