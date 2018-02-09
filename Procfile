@@ -1,1 +1,1 @@
-worker: node exoni.py
+worker: python exoni.py
